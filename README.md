@@ -1,7 +1,7 @@
 ---
-title: Saqib Younis Profile
+title: Aqib Iqbal Profile
 date: 17-04-2023
-githubUsername: 'saqibyounis'
+githubUsername: 'iqbalaqib'
 ---
 
 
@@ -15,6 +15,9 @@ githubUsername: 'saqibyounis'
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![Apex](https://img.shields.io/badge/-Apex-000000?style=flat&logo=apachespark&logoColor=white)
+
+
 
 **Some of the technologies I have worked with**
 ![XCode](https://img.shields.io/badge/-XCode-000000?style=flat&logo=XCode&logoColor=1575F9)<!-- wi*quL3fcV -->
@@ -26,10 +29,12 @@ githubUsername: 'saqibyounis'
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![Java Spring](https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=6DB33F)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
 
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
 
-⭐️ From [SaqibYounis](https://github.com/saqibyounis)
+⭐️ From [AqibIqbal](https://github.com/iqbalaqib)
